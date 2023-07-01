@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365110225500",
+    "project_id": "firbase-gamil",
+    "storage_bucket": "firbase-gamil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365110225500:android:df988764b83e8024bf1499",
+        "android_client_info": {
+          "package_name": "com.example.firdase_gmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365110225500-epv5pvenuhhmphnctaednc76h6tgi1vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWK215j5MWFDJHjnCc5iODfeiXM2GayU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365110225500-epv5pvenuhhmphnctaednc76h6tgi1vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
